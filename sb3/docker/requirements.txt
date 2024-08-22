@@ -1,0 +1,2 @@
+# Installing stablebaselines3
+stable-baselines3[extra]

@@ -1,0 +1,5 @@
+# Installing gymnasium
+swig
+mujoco
+gymnasium[all]
+gymnasium[accept-rom-license]
