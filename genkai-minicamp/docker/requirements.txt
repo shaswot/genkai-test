@@ -1,0 +1,14 @@
+# Installing torch
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.4.0
+torchvision==0.19.0+cu124
+torchaudio==2.4.0
+
+# Installing gymnasium
+swig
+mujoco
+gymnasium[all]
+gymnasium[accept-rom-license]
+
+# Installing stablebaselines3
+stable-baselines3[extra]
