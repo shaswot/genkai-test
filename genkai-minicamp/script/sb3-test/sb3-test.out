@@ -1,0 +1,5 @@
+Project Root Directory: /repos/genkai-test
+-------
+RUN: 0
+Wrapping the env in a VecTransposeImage.
+ Avg Reward: 2.25 ± 3.90
